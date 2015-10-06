@@ -1,5 +1,4 @@
-# scrape-app
-Web Scrape app using Node [X-Ray](https://github.com/lapwinglabs/x-ray) and MongoDB.
+## Web Scrape app using Node [X-Ray](https://github.com/lapwinglabs/x-ray) and MongoDB.
 
 Our test is using Yahoo News! to scrape and import content to a database.
 
